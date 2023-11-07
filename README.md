@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tahar</h1>
 <h3 align="center">I'm passionate about Reinforcement Learning, Generative AI and Computer Vision</h3>
-
-<img align="right" alt="Coding" Width="400" src="https://www.braveriver.com/_files/public/ai-personalization-seo.gif?w=379&h=284">
+<img align="right" alt="Coding" width="400" src="https://www.braveriver.com/_files/public/ai-personalization-seo.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taharchettaoui&label=Profile%20views&color=0e75b6&style=flat" alt="taharchettaoui" /> </p>
 
